@@ -10,7 +10,7 @@ $^2$ Ludwig-Maximilians-Universität München
 
 This github repository can be cloned on the command line like so:
 
-`git clone https://github.com/gabriellemhobson/Mesh_Morphing_for_Geophysics`
+`git clone https://github.com/MM4Geo/Mesh_Morphing_for_Geophysics`
 
 After navigating into the main directory `Mesh_Morphing_for_Geophysics`, the `environment.yaml` file can be used to create a conda environment:
 
