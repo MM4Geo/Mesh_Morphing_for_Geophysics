@@ -1,10 +1,10 @@
 # Mesh_Morphing_for_Geophysics
 
-This repository accompanies the paper "Quantifying the influence of fault geometry via mesh morphing with applications to dynamic rupture and thermal models of subduction", by Gabrielle M. Hobson $^1$, Dave A. May $^1$, and Alice-Agnes Gabriel $^{1,2}$. 
+This repository accompanies the paper "Quantifying the influence of fault geometry via mesh morphing with applications to earthquake dynamic rupture and thermal models of subduction", by Gabrielle M. Hobson $^1$, Dave A. May $^1$, and Alice-Agnes Gabriel $^{1,2}$. 
 
-$^1$ Scripps Institution of Oceanography, University of California San Diego
+$^1$ Institute of Geophysics and Planetary Physics, Scripps Institution of Oceanography, University of California San Diego
 
-$^2$ Ludwig-Maximilians-Universität München
+$^2$ LMU Munich, Germany
 
 ### Installation and Environment
 
